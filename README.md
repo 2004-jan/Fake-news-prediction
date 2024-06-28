@@ -76,16 +76,14 @@ pip install pandas numpy matplotlib seaborn scikit-learn nltk wordcloud
 ## Usage
 1. Clone the repository:
    bash
-   git clone https://github.com/yourusername/fake-news-detection.git
+   git clone https://github.com/2004-jan/Fake-news-prediction.git
    
 2. Navigate to the project directory:
    bash
-   cd fake-news-detection
+   cd fake-news-prediction
    
 3. Run the Jupyter Notebook or Python script to preprocess the data, train the models, and evaluate the results.
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
